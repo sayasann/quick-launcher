@@ -1,6 +1,8 @@
 # Uygulama Başlatıcı
 
-Windows'ta birden fazla uygulamayı sırayla başlatan basit bir tool.
+Her seferinde elle uygulamaları tek tek açmaktan yoruldunuz mu?
+Windows'ta seçtiğiniz birden fazla uygulamayı, verdiğiniz zaman aralığı ile sırayla başlatan basit bir tool.
+Shell'den ./launcher.sh şeklinde çalıştırabilirsiniz.
 
 ## Kullanım
 
@@ -13,7 +15,6 @@ Windows'ta birden fazla uygulamayı sırayla başlatan basit bir tool.
 
 - `launcher.sh` - Ana script
 - `apps.txt` - Uygulamalar listesi
-- `launcher.bat` - Windows masaüstü kısayolu
 
 ## Örnek (apps.txt)
 /c/Program Files/Microsoft SQL Server Management Studio 21/Release/Common7/IDE/SSMS.exe
