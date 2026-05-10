@@ -19,6 +19,7 @@ Run it from the shell with `./launcher.sh`
 3. Choose from the menu:
    - **[1]** Launch all applications
    - **[2]** Open an IntelliJ project or create a new one via Spring Initializr
+   - **[3]** Close all tabs
 4. Enter the time interval (seconds)
 5. Confirm
 
